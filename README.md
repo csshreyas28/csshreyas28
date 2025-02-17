@@ -1,6 +1,7 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 student
-
+-->
+# 👋 Hi, I'm Shreyas!
 
 ## 🌐 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/csshreyas) [![Send Me A Message](https://img.shields.io/badge/Send%20Me%20A%20Message-00C7B7?logo=message&logoColor=white)](https://csshreyas.netlify.app/#contact) [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-00A2FF?logo=laptop&logoColor=white)](https://csshreyas.netlify.app/)
